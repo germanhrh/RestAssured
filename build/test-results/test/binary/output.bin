@@ -1,0 +1,16 @@
+Request method:	POST
+2Request URI:	https://prod.reqres.in/api/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "password": "pistol",
+"    "email": "eve.holt@reqres.in"
+}
